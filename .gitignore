@@ -1,0 +1,5 @@
+src/servidor_tablero
+src/cliente_tablero
+src/prueba_sigkill
+src/lector_*.txt
+src/escritor_*.txt
